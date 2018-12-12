@@ -1,5 +1,5 @@
 """
-Programme réalisé par Guillaume VDREST (surtout)et  Théo VDD(allé un peu qd meme)
+Programme réalisé par Guillaume VDREST et  Théo VDD
 Novembre 2018
 """
 
